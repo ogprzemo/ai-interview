@@ -1,10 +1,10 @@
 # ai-interview
  
-**Utwórz baze danych**
+**Utwórz baze danych** - 
 python3 init_db.py
 
-**odpal backend**
+**odpal backend** - 
 uvicorn main:app --reload
 
-**odpal front**
+**odpal front** - 
 Manualnie w IDE
